@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Created new1.txt file
+=======
+created new1.txt file
+>>>>>>> ccb98f029705625f338576a9b242c141a350901e
